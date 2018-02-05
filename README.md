@@ -1,5 +1,6 @@
 [![PyPI version](https://img.shields.io/pypi/v/ansible.svg)](https://pypi.python.org/pypi/ansible)
 [![Build Status](https://api.shippable.com/projects/573f79d02a8192902e20e34b/badge?branch=devel)](https://app.shippable.com/projects/573f79d02a8192902e20e34b)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fansible.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fansible?ref=badge_shield)
 
 
 Ansible
@@ -54,3 +55,7 @@ License
 GNU General Public License v3.0
 
 See [COPYING](COPYING) to see the full text.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fansible.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fansible?ref=badge_large)
